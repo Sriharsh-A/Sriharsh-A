@@ -1,8 +1,8 @@
-# 💫 About Me:
-
 🎓 Computer Science student exploring the intersection of technology, AI, and creative development.<br><br>
 🤖 Building projects in AI, Machine Learning, Computer Vision, and full-stack development.<br><br>
 🚀 My projects include **INSIDE**, a personal fitness dashboard, an **AI Attendance System** using face recognition, and a **Spam Email Detection** ML project.<br><br>
+📊 Comfortable working with **Excel and SQL** for data handling and analysis.<br><br>
+📸 Pretty good at photography — at least that's what I think. 😄<br><br>
 ⚡ Fun fact - I don't usually start, but when I start, I don't quit.
 
 ## 🌐 Socials:
@@ -27,11 +27,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ☁️ Cloud & Backend
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 📊 Data & Databases
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🛠️ Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
