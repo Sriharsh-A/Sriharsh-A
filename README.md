@@ -1,6 +1,31 @@
 🎓 Computer Science student exploring the intersection of technology, AI, and creative development.<br><br>
 🤖 Building projects in AI, Machine Learning, Computer Vision, and full-stack development.<br><br>
-🚀 My projects include **INSIDE**, a personal fitness dashboard, an **AI Attendance System** using face recognition, and a **Spam Email Detection** ML project.<br><br>
+# 🚀 Featured Projects:
+
+### 🎯 TRACK — Habit Tracker
+
+A personal habit-tracking web application built to help me stay consistent, monitor daily habits, and visualize my progress over time.
+
+**React • JavaScript • Supabase • Vite**
+
+### 💪 INSIDE
+
+A personal fitness dashboard designed and built for tracking and managing my own fitness journey.
+
+**React • JavaScript • Supabase • SQLite**
+
+### 🤖 AI Attendance System
+
+Face recognition-based attendance management system using a webcam to identify registered students and automatically record attendance.
+
+**Python • OpenCV • face_recognition • dlib • Tkinter**
+
+### 📧 Spam Email Detection
+
+Machine learning project that classifies emails as spam or legitimate using NLP preprocessing and machine learning.
+
+**Python • NLTK • scikit-learn • joblib**
+<br><br>
 📊 Comfortable working with **Excel and SQL** for data handling and analysis.<br><br>
 📸 Pretty good at photography — at least that's what I think. 😄<br><br>
 ⚡ Fun fact - I don't usually start, but when I start, I don't quit.
